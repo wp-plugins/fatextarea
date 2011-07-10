@@ -19,3 +19,8 @@ change textarea from rtl to ltr .
 3. visit my site and comment here http://yonadi.com and http://supportweb.ir
 4 . enjoy .
 
+== Screenshots ==
+
+1. before install
+
+2. after install
