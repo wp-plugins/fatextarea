@@ -1,6 +1,6 @@
 ﻿=== Plugin Name ===
 Donate link: http://www.yonadi.com
-Tags: fatextarea
+Tags: fatextarea , ltr, rtl, admin, wordpress3.2
 Tested up to: 3.2
 Requires at least: 2.0.2
 Stable tag: trunk
@@ -10,6 +10,7 @@ change textarea from rtl to ltr .
 
 change textarea from rtl to ltr .
 
+by http://yonadi.com and http://supportweb.ir
 
 == Installation ==
 
